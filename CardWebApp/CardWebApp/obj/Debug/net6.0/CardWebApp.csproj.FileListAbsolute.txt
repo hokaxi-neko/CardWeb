@@ -24,3 +24,5 @@ D:\CardWeb\CardWeb\CardWebApp\CardWebApp\obj\Debug\net6.0\refint\CardWebApp.dll
 D:\CardWeb\CardWeb\CardWebApp\CardWebApp\obj\Debug\net6.0\CardWebApp.pdb
 D:\CardWeb\CardWeb\CardWebApp\CardWebApp\obj\Debug\net6.0\CardWebApp.genruntimeconfig.cache
 D:\CardWeb\CardWeb\CardWebApp\CardWebApp\obj\Debug\net6.0\ref\CardWebApp.dll
+D:\CardWeb\CardWeb\CardWebApp\CardWebApp\bin\Debug\net6.0\package-lock.json
+D:\CardWeb\CardWeb\CardWebApp\CardWebApp\bin\Debug\net6.0\package.json
